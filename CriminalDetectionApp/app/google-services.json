@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334992771613",
+    "project_id": "criminal-detection-app",
+    "storage_bucket": "criminal-detection-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334992771613:android:cb6ce32e6b15ea5c0954f4",
+        "android_client_info": {
+          "package_name": "com.example.criminaldetectionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdWOBVr7BtoI_0K8wq60CAiZJPnKdmwYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
